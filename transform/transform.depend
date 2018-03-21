@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521635595 source:g:\workspace\c\transform\main.c
+	<stdio.h>
+	<stdlib.h>
+

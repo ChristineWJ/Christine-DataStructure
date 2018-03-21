@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521637251 source:g:\workspace\c\nradix\main.c
+	<stdio.h>
+	<stdlib.h>
+
